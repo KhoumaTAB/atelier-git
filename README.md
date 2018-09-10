@@ -6,4 +6,5 @@ Basic boilerplate to start future projects.
 Tu rencontreras fréquemment la syntaxe Markdown, n'hésite pas à faire des recherches dessus par la suite.
 merci prof !
 
-Je change cette ligne.
+CONFLICTTTTTTTTTTTTTT
+
